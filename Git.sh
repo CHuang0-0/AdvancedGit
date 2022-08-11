@@ -244,14 +244,3 @@ git config --global alias.gco checkout master
 git gco
 # aliasing git commit verbose mode
 git config --global alias.cv commit -v
-
-
-
-
-
-
-
-
-
-
-
